@@ -7,18 +7,19 @@ height: 230px;
 margin-top: 200px;
 }
 img{
+width: 280px;
+border-radius: 20px 0px 0px 20px;
+height: 280px;
+
 top: 50%;
 left: 50%;
 transform: translate( -130% , -50%);
-width: 280px;
-border-radius: 20px 0px 0px 20px;
 }    
 div#info{
-top: 50%;
-left: 50%;
-transform: translate( -10% , -50%);
 width: 400px;
 font-size: 20px;
+
+transform: translate( -10% , -50%);
 }
 div.fund{
 width: 300px;
@@ -42,19 +43,17 @@ width: 700px;
 height: 290px;
 }
 img{
-top: 50%;
-left: 50%;
-transform: translate( 20% , -50%);
 width: 300px;
 border-radius: 0px 20px 20px 0px;
 height: 340px;
+
+transform: translate( 20% , -50%);
 }    
 div#info{
-top: 50%;
-left: 50%;
-transform: translate( -80% , -50%);
 width: 400px;
 font-size: 20px;
+
+transform: translate( -80% , -50%);
 }
 div.fund{
 width: 300px;
